@@ -8,7 +8,7 @@ A simple counter app where I can keep on adding new features, to end up learning
 
 ## Getting Started
 
-Click [here]() for live site.
+Click [here](https://charlehs.github.io/Counter/) for live site.
 
 ## Version History
 
